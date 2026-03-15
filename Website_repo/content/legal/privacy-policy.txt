@@ -1,0 +1,93 @@
+﻿BODIQO — PRIVACY POLICY
+Effective / Last Updated: 12 January 2026
+Brand: Bodiqo (formerly known as Physiques By Vinay)
+Operator (Legal Entity): Bodiqo Ventures LLP (“Company”, “we”, “us”, “our”)
+App: Bodiqo Client App and related client portals (“Platform”)
+This Policy explains how we collect, use, store, share, and protect your information when you use our Platform.
+1. Scope
+This Policy applies to:
+the Bodiqo website(s), and
+the Bodiqo client mobile app and client portal, and
+messages/emails/WhatsApp coordination related to your program.
+It does not cover third-party websites/apps you access via links or integrations (those are governed by their own policies).
+2. Information We Collect
+2.1 Information You Provide
+Account info: name, phone number, email, age, gender, city
+Fitness profile: goals, experience, preferences
+Health & lifestyle info you share: injuries, medical notes, allergies, limitations, sleep patterns, habits
+Coaching data: workout logs, meal logs, adherence responses, check-ins
+Progress content: photos/videos you upload, bodyweight/measurements you enter
+Communication: messages to coaches/support (in-app, WhatsApp, email)
+Payments: purchase details, invoices/receipts, payment status (we do not store full card details if processed by gateways)
+2.2 Automatically Collected (Device/Usage)
+device identifiers, app version, OS type
+basic diagnostics, crash logs, performance logs
+IP address (website), browser/device info (website), usage events (app)
+2.3 Integrations You Choose
+If you connect integrations, we may access data you authorize:
+Google Fit / Apple Health (HealthKit): steps, workouts, activity, sleep and other health metrics you choose to share
+Google Calendar: creating or updating scheduled calls/sessions; accessing availability depending on permissions granted
+Calendly: scheduling metadata (name, email/phone, selected slot, timezone, booking status)
+WhatsApp: message coordination and scheduling (content may be stored in our systems when shared to support your service delivery)
+You can disconnect integrations in your device/app settings or by contacting us (depending on the integration).
+2.4 Cookies & Tracking (Website)
+Our website may use cookies/pixels for:
+login/session functionality
+analytics and performance
+marketing measurement (where enabled)
+You can control cookies in your browser settings.
+3. Why We Use Your Information
+We use your information to:
+create and manage your account
+deliver coaching (workout/diet planning, logs, check-ins, adherence insights)
+schedule sessions and calls
+process payments and provide invoices/receipts
+provide support and resolve issues
+improve Platform performance and program quality
+prevent fraud, misuse, or policy violations
+comply with legal obligations and enforce our Terms
+4. How We Share Your Information
+We may share your information with:
+4.1 Internal Team (Need-to-Know)
+Coaches, nutritionists, sales/support, and admins may access your data strictly to provide and manage your service.
+4.2 Service Providers (Processors)
+We use vendors for hosting, databases, analytics, messaging, scheduling and payments (e.g., cloud infrastructure such as Supabase, email/SMS tools, WhatsApp coordination, Calendly, payment gateways). They receive only what is necessary to perform services for us and are expected to protect the information.
+4.3 Legal / Safety
+We may disclose information if required by law, court orders, government requests, or to protect rights, safety, and security.
+4.4 Business Transfers
+If the business is reorganized, merged, or assets are transferred, your information may be transferred as part of that transaction.
+We do not sell your personal information as a business model.
+5. Your Choices & Rights
+You can:
+access and update certain profile information in the Platform
+request correction of inaccurate data
+request deletion/erasure where applicable
+withdraw from optional data collection (e.g., disconnect Google Fit/Apple Health, disable notifications, stop sharing progress photos)
+To make a formal request, email: info@bodiqo.com.
+You may also nominate another person to exercise certain rights on your behalf in case of incapacity or death, where applicable.
+6. Data Retention
+We retain personal data only as long as needed for:
+service delivery and account operations
+compliance, dispute handling, and audit trails
+legal and financial recordkeeping
+As a standard baseline, we retain account and service records for up to 3 years from your last interaction (unless a longer period is required for legal, billing, or dispute reasons). Aggregated/anonymous analytics may be retained longer.
+7. Security
+We use reasonable administrative, technical, and organizational measures to protect your information, including access controls and secure storage practices.
+No system is perfectly secure. You are responsible for protecting access to your phone/device and OTPs.
+8. Cross-Border Processing
+Some service providers (including infrastructure, scheduling, analytics, or communications tools) may process data outside India depending on the vendor and configuration. Where this happens, we apply contractual and operational safeguards appropriate for protecting your data.
+9. Children’s Privacy
+We do not knowingly allow minors to create accounts without a parent/guardian. If you believe a minor has provided data without guardian involvement, contact support.
+10. Health Data Notes (Apple Health / HealthKit)
+If you connect Apple Health/HealthKit:
+you control what data types you share
+you can revoke permissions anytime in iOS settings
+we use shared health data only to provide fitness/coaching features inside Bodiqo (not for ad targeting)
+11. Changes to This Policy
+We may update this Policy periodically. We will post the latest version on our website and/or inside the Platform with the updated date.
+12. Grievance & Contact
+For privacy questions, complaints, or requests:
+Support Email: info@bodiqo.com
+Phone: +91 89287 67448
+
+We aim to resolve grievances promptly, typically within 30 days, and in any case within applicable legal timelines.

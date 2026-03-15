@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body {
+  width: 100%;
+  overflow-x: clip;
+  background: #f8faff;
+  color: #11161f;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-lato), sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.section-shell {
+  @apply mx-auto w-full max-w-7xl px-5 sm:px-8 lg:px-14;
+}
+
+.section-title {
+  @apply text-3xl font-semibold tracking-tight text-bodiqo-charcoal sm:text-4xl;
+}
+
+.section-title-light {
+  @apply text-3xl font-semibold tracking-tight text-bodiqo-white sm:text-4xl;
+}
+
+.eyebrow {
+  @apply text-xs font-semibold uppercase tracking-[0.24em] text-bodiqo-electric/80;
+}
+
+.gradient-divider {
+  background: linear-gradient(90deg, rgba(45, 125, 255, 0.15), rgba(45, 125, 255, 0.65), rgba(45, 125, 255, 0.15));
+}
+
+.soft-card {
+  @apply rounded-3xl border border-bodiqo-electric/15 bg-white/90 backdrop-blur-sm;
+}

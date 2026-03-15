@@ -1,0 +1,15 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>BODIQO Open Graph Image</title>
+  <rect width="1200" height="630" fill="#11161F" />
+  <circle cx="1020" cy="100" r="210" fill="#2D7DFF" fill-opacity="0.32" />
+  <circle cx="140" cy="580" r="220" fill="#81BAFF" fill-opacity="0.24" />
+  <text x="90" y="250" fill="#F8FAFF" font-family="Lato, Arial, sans-serif" font-size="92" font-weight="900" letter-spacing="10">
+    BODIQO
+  </text>
+  <text x="90" y="335" fill="#DCEBFF" font-family="Lato, Arial, sans-serif" font-size="50" font-weight="700">
+    Stronger systems. Better outcomes.
+  </text>
+  <text x="90" y="420" fill="#DCEBFF" font-family="Lato, Arial, sans-serif" font-size="30" font-weight="400">
+    Premium wellness-performance for individuals and organizations
+  </text>
+</svg>
